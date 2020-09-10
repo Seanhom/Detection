@@ -120,10 +120,3 @@ Press `Q` or `Esc` to quit. Press `F` to enter/exit full-screen.
 - Pulling Hand In
 - Pulling Two Fingers In
 
-## Contact
-
-For any problems, contact:
-
-Ji Lin, jilin@mit.edu
-
-Yaoyao Ding, yyding@mit.edu
